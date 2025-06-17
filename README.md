@@ -1,6 +1,5 @@
 This project focuses on detecting fraudulent financial transactions using both **Deep Learning** (static batch models) and **Apache Spark MLlib** (streaming, distributed processing). The primary goal is to **compare performance metrics** such as training time, GPU utilization, and model accuracy.
 
-
  📁 Dataset Used
  `/content/Bank_Transaction_Fraud_Detection.csv`
 
